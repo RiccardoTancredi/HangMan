@@ -92,6 +92,3 @@ while j < 6:
     if j == 6:
         print("Hai perso. La parola era: ", finale)
         break
-
-#ToDo: delete spaces if there are in the word/words insereted
-#ToDo: lowercase all the letters or do something so that g = G
