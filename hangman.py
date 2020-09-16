@@ -81,7 +81,7 @@ while j < 6:
         j +=1
         life(j)
     if a in inserted_letters:
-        print("Hai già inserito questa lettere. Non ti distrarre, hai perso una vita")
+        print("Hai già inserito questa lettera. Non ti distrarre, hai perso una vita")
         print(tentativo)
         j +=1
         life(j)
